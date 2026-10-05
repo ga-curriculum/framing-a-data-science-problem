@@ -20,7 +20,7 @@ You will be able to:
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
 | [Slides](https://docs.google.com/presentation/d/13v_GteWpN8UlxPEphwLMWwxHmgkNvIFs9p0VdETS7l0/edit#slide=id.g325b854f450_0_3239) | 60 min | • Defining the Business Problem<br>• Understanding your Stakeholders<br>• Clarifying Success Metrics & Hypotheses<br>• Assessing Feasibility<br>• Considering Ethical, Legal and Strategic Implications |
-| [Calculating ROI Exercise](02-calculating-roi/calculating-roi-starter-code.ipynb )                    | 15 min | • Calculating ROI for Wind Farm Predictive Maintenance Project
+| [Calculating ROI Exercise](https://colab.research.google.com/github/ga-curriculum/framing-a-data-science-problem/blob/main/02-calculating-roi/calculating-roi-starter-code.ipynb){:target="_blank"}                    | 15 min | • Calculating ROI for Wind Farm Predictive Maintenance Project
 | **Total content**                                   | 90 min |                    Including breaks                 | 
 
 ### Prerequisites
