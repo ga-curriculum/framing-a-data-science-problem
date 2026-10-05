@@ -35,11 +35,11 @@ You will be able to:
 
 ### Starter code (for calculating ROI exercise)
 
-🟢 [Starter code](./calculating-roi-starter-code.ipynb)
+🟢 [Starter code](https://colab.research.google.com/github/ga-curriculum/framing-a-data-science-problem/blob/main/02-calculating-roi/calculating-roi-starter-code.ipynb){:target="_blank"}
 
 ### Solution code (for calculating ROI exercise)
 
-🏁 [Solution code](./calculating-roi-solution-code.ipynb)
+🏁 [Solution code](https://github.com/ga-curriculum/framing-a-data-science-problem){:target="_blank"}
 
 ### Resources
 
